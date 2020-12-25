@@ -11,6 +11,7 @@
         android:theme="@style/Theme.GitPractice">
         <activity android:name=".LoginActivity"></activity>
         <activity android:name=".ForgetPassword"></activity>
+        <activity android:name=".SignupActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
